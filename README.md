@@ -169,6 +169,7 @@ print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
 
 I have attached a ipynb file to show you the difference between CPU and GPU performace when it comes to DL models
 
+https://github.com/pruthvi423186/GPU_DL/blob/main/GPU_vs_CPU.ipynb
 
  
 There you go you have installed everything required to use your GPU as main computing device for your DL code 
