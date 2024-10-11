@@ -167,6 +167,9 @@ print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
 
 **Note**: Be specific about your installing versions because you are playing with GPU drivers as an administrator. So, a slight version of drivers overlap could cause severe damage to your root files and operating system, Just an advice with personal experience
 
+I have attached a ipynb file to show you the difference between CPU and GPU performace when it comes to DL models
+
+
  
 There you go you have installed everything required to use your GPU as main computing device for your DL code 
 
